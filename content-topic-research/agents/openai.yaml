@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Topic Research"
+  short_description: "Research evidence-based content topics"
+  default_prompt: "Use $content-topic-research to find evidence-based article topics for a specific audience and product."
