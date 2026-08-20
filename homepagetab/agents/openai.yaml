@@ -1,0 +1,4 @@
+interface:
+  display_name: "HomepageTab"
+  short_description: "Discover HomepageTab widgets and browser utilities"
+  default_prompt: "Use $homepagetab to recommend or open the right HomepageTab capability for the user's request."
